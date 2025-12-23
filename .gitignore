@@ -1,0 +1,14 @@
+# Secrets
+.env
+*.session
+*.session-journal
+
+# Data
+members.csv
+*.csv
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.DS_Store
