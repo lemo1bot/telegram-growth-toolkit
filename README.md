@@ -17,8 +17,8 @@ A powerful, safe, and open-source toolkit to grow your Telegram setup.
 
 1.  **Download the tool:**
     ```bash
-    git clone https://github.com/YOUR_USERNAME/telegram-toolkit.git
-    cd telegram-toolkit
+    git clone https://github.com/lemo1bot/telegram-growth-toolkit.git
+    cd telegram-growth-toolkit
     ```
 
 2.  **Install requirements:**
